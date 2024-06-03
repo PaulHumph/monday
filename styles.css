@@ -8,8 +8,12 @@ h1      {
     color: blue;
 }
 
-footer  {
-    color: grey;
+h2      {
+    color: magenta;
+}
+
+h3      {
+    color: maroon;
 }
 
 h4      {
@@ -17,5 +21,9 @@ h4      {
 }
 
 li      {
-    color: rebeccapurple;
+    color: green;
+}
+
+footer  {
+    color: grey;
 }
